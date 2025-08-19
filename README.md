@@ -1,4 +1,4 @@
-# 🧪 Experiment 2: Conditional Statements in C++
+# 🧪 Experiment 2: Operators C++
 
 ### (Q1: Student Grade Calculator & Q2: Positive or Negative Number Checker)
 
